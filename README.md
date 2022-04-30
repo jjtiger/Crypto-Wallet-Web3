@@ -1,4 +1,4 @@
-![](Images/Wallet.png)
+![](Images/wallet.png)
 
 # Crypto-Wallet-Web3
 
